@@ -1,6 +1,4 @@
-# blogPessoal_T33
-
-<h1>Projeto Blog Pessoal</h1>
+<h1>Projeto Blog Pessoal Turma 33</h1>
 
 <h2>Etapas concluídas</h2>
 
